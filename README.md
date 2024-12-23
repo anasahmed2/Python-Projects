@@ -1,4 +1,4 @@
-Expense Tracker App
+# Expense Tracker App
 
 Welcome to the Expense Tracker App! This is a Python-based application that helps users track and manage their expenses effectively. The app leverages the power of pandas for data manipulation and provides a simple, user-friendly interface for recording, analyzing, and visualizing expenses.
 
